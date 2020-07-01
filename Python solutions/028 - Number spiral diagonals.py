@@ -21,5 +21,5 @@ simply sum from 1001^1001 to 1
 
 size_of_spiral = 1001 ** 1001
 
-get_sum_up_to_a_number(size_of_spiral)
+#get_sum_up_to_a_number(size_of_spiral)
 
